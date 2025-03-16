@@ -27,7 +27,7 @@ Download and place the `buffalo_s` model inside `~/.insightface/models/` or conf
 ## Usage
 ### Run the Face Recognition System
 ```sh
-python face_recognition.py
+python main.py
 ```
 Press `q` to exit the application.
 
